@@ -1,5 +1,5 @@
-#CSS 애니메이션
-##CSS 애니메이션
+# CSS 애니메이션
+## CSS 애니메이션
 > CSS 애니메이션에 대해서..
 1. animation 속성
 2. transition 속성
@@ -22,5 +22,5 @@
     transition: all 0.5s;
 }
 ```
-[생활코딩][coding]
-[coding]:https://opentutorials.org/course/1 "생활코딩 사이트로 이동"
+link: [생활코딩][coding]
+[coding]: https://opentutorials.org/course/1 "생활코딩 사이트로 이동"
