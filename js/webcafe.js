@@ -17,5 +17,6 @@ $(function() {
 
     last_menu.on('focusout', function() {
         main_menu.toggleClass('main-menu-act');
+        container.toggleClass('menubar-act');
     });
 });
